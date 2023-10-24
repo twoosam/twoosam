@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![](images/github.png)
 ## 💬 About Me
 
